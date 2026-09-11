@@ -18,8 +18,7 @@ I'm on the journey of learning of how to bridge the gap between commercial busin
 ### 1. Project Basalt: secure network routing
 * **The Business Impact:** Enabled competing ISPs & ASs to share routing information and collaborate for crisis mitigation while keeping network topology secrets
 * **The Engineering Feat:** Architectural design of an end-to-end federated, predictive and cryptographically verified BGP securing mechanism.
-* **📂 [Explore the Deep-Dive Repository](LINK_TO_YOUR_PROJECT_REPO)** | **📊 [View the Active Roadmap](LINK_TO_YOUR_PROJECTS_BOARD)**
-
+* **📂 [Explore the Deep-Dive Repository](https://github.com/Eskender-Assefa/Project-Basalt)** 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem Literacy
